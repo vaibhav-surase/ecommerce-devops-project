@@ -5,10 +5,10 @@ pipeline {
 
         stage('Clone Code') {
             steps {
-                git 'https://github.com/vaibhav-surase/ecommerce-devops-project.git'
+                git branch: 'main',
+                url: 'https://github.com/vaibhav-surase/ecommerce-devops-project.git'
             }
         }
-
 
         stage('Build Frontend') {
             steps {
