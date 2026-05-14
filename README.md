@@ -417,8 +417,11 @@ Configure Ingress Controller
 
 Integrate ArgoCD for GitOps Deployment
 
+
 Author
 
 Vaibhav Surase
+
 DevOps Engineer
+
 CI/CD | Docker | Kubernetes | Jenkins | Linux | AWS
