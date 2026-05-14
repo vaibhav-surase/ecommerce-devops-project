@@ -367,7 +367,7 @@ git commit -m "Initial Commit"
 
 Add Remote Repository
 
-git remote add origin https://github.com/vaibhav-surase/ecommerce-devops-project.git'
+git remote add origin https://github.com/vaibhav-surase/ecommerce-devops-project.git
 
 Push Code
 
